@@ -1,0 +1,1 @@
+This is a simple implementation of stack in C++.//by John Zhou
